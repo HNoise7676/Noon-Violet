@@ -1,6 +1,6 @@
 {
   "name": "WIP",
-  "description": "WIP - Transparency Fixed",
+  "description": "WIP",
   "authors": [
     {
       "name": "WIP"
@@ -8,28 +8,28 @@
   ],
   "semanticColors": {
     "BACKGROUND_TERTIARY": [
-      "#00000000"
+      "#000000"
     ],
     "BACKGROUND_ACCENT": [
       "#7f00ff"
     ],
     "BACKGROUND_SECONDARY": [
-      "#0f0f1040"
+      "#0f0f10"
     ],
     "BACKGROUND_MODIFIER_ACCENT": [
-      "#8c8c8c12"
+      "#0c0c0c"
     ],
     "DIVIDER_STRONG": [
-      "#00000000"
+      "#000000"
     ],
     "DIVIDER_SUBTLE": [
-      "#00000000"
+      "#000000"
     ],
     "BORDER_SUBTLE": [
-      "#00000000"
+      "#000000"
     ],
     "SPINE_DEFAULT": [
-      "#00000000"
+      "#000000"
     ],
     "SPOILER_HIDDEN_BACKGROUND": [
       "#111011"
@@ -131,7 +131,7 @@
       "#0C0C0D"
     ],
     "TYPING_INDICATOR_BG": [
-      "#0E0E0F00"
+      "#0E0E0F"
     ],
     "USER_PROFILE_HEADER_OVERFLOW_BACKGROUND": [
       "#0E0E0F"
@@ -149,7 +149,7 @@
       "#7f00ff"
     ],
     "SCROLLBAR_THIN_TRACK": [
-      "#00000000"
+      "#0E0E0F"
     ],
     "SCROLLBAR_AUTO_THUMB": [
       "#7f00ff"
@@ -158,10 +158,10 @@
       "#0E0E0F"
     ],
     "REDESIGN_CHAT_INPUT_BACKGROUND": [
-      "#00000000"
+      "#0E0E0F"
     ],
     "SCROLLBAR_AUTO_TRACK": [
-      "#00000000"
+      "#0E0E0F"
     ],
     "REDESIGN_INPUT_CONTROL_SELECTED": [
       "#540099"
@@ -170,10 +170,7 @@
       "#262627"
     ],
     "CHAT_INPUT_CONTAINER_BACKGROUND": [
-      "#00000040"
-    ],
-    "INPUT_BACKGROUND": [
-      "#00000040"
+      "#0E0E0F"
     ],
     "MENTION_BADGE": [
       "#7f00ff"
@@ -220,19 +217,19 @@
     "YELLOW_700": "#000000",
     "RED_430": "#E02929",
     "PLUM_14": "#1D1D21",
-    "PRIMARY_800": "#0C0B0C00",
+    "PRIMARY_800": "#0C0B0C",
     "PLUM_1": "#dbdee1",
-    "PLUM_22": "#0E0E0F00",
-    "PRIMARY_660": "#14131400",
-    "PRIMARY_700": "#0f0f1000",
-    "PRIMARY_560": "#3c096d00",
-    "PRIMARY_600": "#0b080d00",
-    "PRIMARY_630": "#0C0B0C00",
+    "PLUM_22": "#0E0E0F",
+    "PRIMARY_660": "#141314",
+    "PRIMARY_700": "#0f0f10",
+    "PRIMARY_560": "#3c096d",
+    "PRIMARY_600": "#0b080d",
+    "PRIMARY_630": "#0C0B0C",
     "PLUM_15": "#7f00ff",
-    "PLUM_17": "#0E0E0F00",
+    "PLUM_17": "#0E0E0F",
     "PLUM_18": "#111011",
     "PLUM_19": "#3c096d",
-    "PLUM_20": "#00000000",
+    "PLUM_20": "#000000",
     "PLUM_23": "#191919",
     "PLUM_24": "#191919"
   },
