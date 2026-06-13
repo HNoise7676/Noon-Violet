@@ -1,0 +1,250 @@
+{
+  "name": "WIP",
+  "description": "WIP",
+  "authors": [
+    {
+      "name": "WIP"
+    }
+  ],
+  "semanticColors": {
+    "BACKGROUND_TERTIARY": [
+      "#000000"
+    ],
+    "BACKGROUND_ACCENT": [
+      "#7f00ff"
+    ],
+    "BACKGROUND_SECONDARY": [
+      "#0f0f10"
+    ],
+    "BACKGROUND_MODIFIER_ACCENT": [
+      "#8c8c8c12"
+    ],
+    "DIVIDER_STRONG": [
+      "#000000"
+    ],
+    "DIVIDER_SUBTLE": [
+      "#000000"
+    ],
+    "BORDER_SUBTLE": [
+      "#000000"
+    ],
+    "SPINE_DEFAULT": [
+      "#000000"
+    ],
+    "SPOILER_HIDDEN_BACKGROUND": [
+      "#111011"
+    ],
+    "SPOILER_REVEALED_BACKGROUND": [
+      "#111011"
+    ],
+    "STAGE_CARD_PILL_BG": [
+      "#000000"
+    ],
+    "STATUS_DANGER": [
+      "#F83838"
+    ],
+    "STATUS_DANGER_BACKGROUND": [
+      "#f23f431a"
+    ],
+    "STATUS_DANGER_TEXT": [
+      "#dbdee1"
+    ],
+    "STATUS_DND": [
+      "#f23f43"
+    ],
+    "STATUS_IDLE": [
+      "#7f00ff"
+    ],
+    "STATUS_OFFLINE": [
+      "#262627"
+    ],
+    "STATUS_ONLINE": [
+      "#7f00ff"
+    ],
+    "STATUS_POSITIVE": [
+      "#7f00ff"
+    ],
+    "STATUS_POSITIVE_BACKGROUND": [
+      "#7f00ff16"
+    ],
+    "STATUS_POSITIVE_TEXT": [
+      "#dbdee1"
+    ],
+    "STATUS_SPEAKING": [
+      "#7f00ff"
+    ],
+    "STATUS_WARNING": [
+      "#dbdee1"
+    ],
+    "STATUS_WARNING_BACKGROUND": [
+      "#000000"
+    ],
+    "STATUS_WARNING_TEXT": [
+      "#dbdee1"
+    ],
+    "TEXT_BRAND": [
+      "#7f00ff"
+    ],
+    "TEXT_DANGER": [
+      "#F83838"
+    ],
+    "TEXT_LINK": [
+      "#7f00ff"
+    ],
+    "TEXT_LINK_LOW_SATURATION": [
+      "#7f00ff66"
+    ],
+    "TEXT_LOW_CONTRAST": [
+      "#b5bac1"
+    ],
+    "TEXT_MESSAGE_PREVIEW_LOW_SAT": [
+      "#b5bac1"
+    ],
+    "TEXT_MUTED": [
+      "#818491"
+    ],
+    "TEXT_MUTED_ON_DEFAULT": [
+      "#dbdee1"
+    ],
+    "TEXT_NORMAL": [
+      "#dbdee1"
+    ],
+    "TEXT_POSITIVE": [
+      "#dbdee1"
+    ],
+    "TEXT_PRIMARY": [
+      "#dbdee1"
+    ],
+    "TEXT_SECONDARY": [
+      "#b5bac1"
+    ],
+    "TEXT_WARNING": [
+      "#dbdee1"
+    ],
+    "THEME_LOCKED_BLUR_FALLBACK": [
+      "#000000"
+    ],
+    "THREAD_CHANNEL_SPINE": [
+      "#7f00ff"
+    ],
+    "TOAST_BG": [
+      "#0C0C0D"
+    ],
+    "TYPING_INDICATOR_BG": [
+      "#0E0E0F"
+    ],
+    "USER_PROFILE_HEADER_OVERFLOW_BACKGROUND": [
+      "#0E0E0F"
+    ],
+    "VOICE_VIDEO_VIDEO_TILE_BACKGROUND": [
+      "#000000"
+    ],
+    "VOICE_VIDEO_VIDEO_TILE_BLUR_FALLBACK": [
+      "#000000"
+    ],
+    "WHITE": [
+      "#dbdee1"
+    ],
+    "SCROLLBAR_THIN_THUMB": [
+      "#7f00ff"
+    ],
+    "SCROLLBAR_THIN_TRACK": [
+      "#0E0E0F"
+    ],
+    "SCROLLBAR_AUTO_THUMB": [
+      "#7f00ff"
+    ],
+    "REDESIGN_BUTTON_TERTIARY_BACKGROUND": [
+      "#0E0E0F"
+    ],
+    "REDESIGN_CHAT_INPUT_BACKGROUND": [
+      "#0E0E0F"
+    ],
+    "SCROLLBAR_AUTO_TRACK": [
+      "#0E0E0F"
+    ],
+    "REDESIGN_INPUT_CONTROL_SELECTED": [
+      "#540099"
+    ],
+    "INTERACTIVE_MUTED": [
+      "#262627"
+    ],
+    "CHAT_INPUT_CONTAINER_BACKGROUND": [
+      "#0E0E0F"
+    ],
+    "MENTION_BADGE": [
+      "#7f00ff"
+    ],
+    "REDESIGN_MENTION_BADGE": [
+      "#7f00ff"
+    ]
+  },
+  "rawColors": {
+    "BLACK_500": "#00000050",
+    "BRAND_260": "#7f00ff",
+    "BRAND_360": "#7f00ff",
+    "BRAND_560": "#3c096d",
+    "BRAND_500": "#7f00ff",
+    "ORANGE_260": "#7f00ff",
+    "ORANGE_300": "#7f00ff",
+    "ORANGE_330": "#7f00ff",
+    "ORANGE_345": "#7f00ff",
+    "ORANGE_360": "#7f00ff",
+    "ORANGE_400": "#7f00ff",
+    "ORANGE_430": "#7f00ff",
+    "ORANGE_460": "#540099",
+    "ORANGE_500": "#7f00ff",
+    "ORANGE_530": "#3c096d",
+    "ORANGE_560": "#3c096d",
+    "ORANGE_600": "#000000",
+    "ORANGE_630": "#000000",
+    "ORANGE_660": "#000000",
+    "ORANGE_700": "#000000",
+    "YELLOW_260": "#7f00ff",
+    "YELLOW_300": "#7f00ff",
+    "YELLOW_330": "#7f00ff",
+    "YELLOW_345": "#7f00ff",
+    "YELLOW_360": "#7f00ff",
+    "YELLOW_400": "#7f00ff",
+    "YELLOW_430": "#7f00ff",
+    "YELLOW_460": "#540099",
+    "YELLOW_500": "#7f00ff",
+    "YELLOW_530": "#3c096d",
+    "YELLOW_560": "#3c096d",
+    "YELLOW_600": "#000000",
+    "YELLOW_630": "#000000",
+    "YELLOW_660": "#000000",
+    "YELLOW_700": "#000000",
+    "RED_430": "#E02929",
+    "PLUM_14": "#1D1D21",
+    "PRIMARY_800": "#0C0B0C",
+    "PLUM_1": "#dbdee1",
+    "PLUM_22": "#0E0E0F",
+    "PRIMARY_660": "#141314",
+    "PRIMARY_700": "#0f0f10",
+    "PRIMARY_560": "#3c096d",
+    "PRIMARY_600": "#0b080d",
+    "PRIMARY_630": "#0C0B0C",
+    "PLUM_15": "#7f00ff",
+    "PLUM_17": "#0E0E0F",
+    "PLUM_18": "#111011",
+    "PLUM_19": "#3c096d",
+    "PLUM_20": "#000000",
+    "PLUM_23": "#191919",
+    "PLUM_24": "#191919"
+  },
+  "background": {
+    "url": "https://raw.githubusercontent.com/wiwiichan/AMOLED-anime-theme/refs/heads/main/rem.jpg",
+    "blur": 0.5,
+    "alpha": 0.25,
+    "size": "cover",
+    "position": "center"
+  },
+  "plus": {
+    "version": "0",
+    "iconpack": "solar"
+  },
+  "spec": 2,
+  "createdAt": "2026-06-13",
+  "source": "local"
+}
