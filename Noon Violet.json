@@ -17,7 +17,7 @@
       "#0f0f10"
     ],
     "BACKGROUND_MODIFIER_ACCENT": [
-      "#0c0c0c"
+      "#8c8c8c12"
     ],
     "DIVIDER_STRONG": [
       "#000000"
@@ -235,7 +235,7 @@
   },
   "background": {
     "url": "https://raw.githubusercontent.com/wiwiichan/AMOLED-anime-theme/refs/heads/main/rem.jpg",
-    "blur": 0.5,
+    "blur": 1.5,
     "alpha": 0.25,
     "size": "cover",
     "position": "center"
@@ -245,6 +245,6 @@
     "iconpack": "solar"
   },
   "spec": 2,
-  "createdAt": "2026-06-13",
+  "createdAt": "13-6-2026",
   "source": "local"
 }
