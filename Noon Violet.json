@@ -1,5 +1,5 @@
 {
-  "name": "Noon Violet 💜",
+  "name": "Noon Violet",
   "description": "A Violet theme for discord mobile",
   "authors": [
     {
@@ -235,7 +235,7 @@
   },
   "background": {
     "url": "https://cdn.jsdelivr.net/gh/HNoise7676/Noon-Violet@master/background.png",
-    "blur": 1.5,
+    "blur": 0.5,
     "alpha": 0.25,
     "size": "cover",
     "position": "center"
